@@ -1,0 +1,25 @@
+{
+  "name": "ninja-node-kit",
+  "version": "0.0.1",
+  "description": "Node based compiler for .kit files for use in NinjaMSP.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leojh/ninja-code-kit"
+  },
+  "keywords": [
+    "node",
+    "kit",
+    "codekit",
+    "preprocess",
+    "preprocessor",
+    "html",
+    "import",
+    "include",
+    "variables"
+  ],
+  "author": {
+    "name": "Jeremy Worboys, NinjaMSP"
+  },
+  "license": "MIT"
+}
